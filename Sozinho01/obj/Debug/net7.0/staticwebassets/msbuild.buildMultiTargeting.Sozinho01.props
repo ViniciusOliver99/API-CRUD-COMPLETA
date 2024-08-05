@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sozinho01.props" />
+</Project>
